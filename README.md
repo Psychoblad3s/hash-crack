@@ -1,2 +1,3 @@
 # hash-crack
-кряк хуеты эморита 
+emorit's govnocode crack
+$$
